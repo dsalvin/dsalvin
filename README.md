@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/dsalvin?label=Follow&style=social)](https://github.com/dsalvin)
 [![Gmail](https://img.shields.io/badge/-alvindandeebo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alvindandeebo@gmail.com)
 
-## 🎓 Computer Science Graduate | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
+## 🎓 Computer Science Student | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
 
-Currently working as a Learning Assistant at Sabanci University, passionate about building innovative software solutions and exploring emerging technologies.
+Passionate about building innovative software solutions and exploring emerging technologies.
 
 ### 🚀 Current Focus
 - Full-Stack Development
@@ -35,12 +35,9 @@ Currently working as a Learning Assistant at Sabanci University, passionate abou
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dsalvin&show_icons=true&theme=tokyonight)
 
 ### 🌍 Find me around the web:
-- 💼 Connecting on [LinkedIn](your-linkedin-url)
+- 💼 Connecting on [LinkedIn](https://tr.linkedin.com/in/alvin-dandeebo-258586215)
 - 📧 Reach out at alvindandeebo@gmail.com
 - 🌐 Based in Istanbul, Turkey
 
